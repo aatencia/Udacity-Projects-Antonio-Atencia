@@ -1,0 +1,53 @@
+/* This is a CSS comment.*/
+
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
+.title {
+	width: 1750px;
+	height: 120px;
+	color: white;
+	background-color: RGB(46,95,186); 
+	font-size:62px;
+	font-weight: 500;
+	text-align: center;
+}
+.app { 
+	display:flex;
+
+}
+.index{
+	max-width: 31%;
+	border-color: blue;
+}
+.Lesson1{
+	background-color: rgb(73,140,229);
+	Color:white;
+}
+.Lesson2{
+	background-color: rgb(97,88,229);
+	color: white;
+}
+.Lesson3{
+	background-color: rgb(88,160,229);
+	color: white;
+}
+.description {
+	margin-left: 2EM;
+	text-align:left;
+	max-width: 69%
+}
+.descrip1{
+	background-color: white;
+	color: rgb(73,140,229)
+}
+.descrip2{
+	background-color: white;
+	color: rgb(97,88,229);	
+}
+.descrip3{
+	background-color: white;
+	color: rgb(88,160,229);	
+}
